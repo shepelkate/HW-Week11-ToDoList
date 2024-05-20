@@ -1,0 +1,15 @@
+ .active {
+    color: gray;
+    text-decoration: line-through;
+ }
+
+ .container {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+ .container2 {
+    display: inline;
+ }
